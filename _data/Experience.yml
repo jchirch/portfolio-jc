@@ -2,21 +2,22 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Montanya Dilstillers
+    role: General Manager
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Managed a high-performance 14 person team to handle high-volume work orders under tight deadlines.
+      - Created unique, weekly recipes by integrating industry trends, increasing client retention through innovation.
+    date: Feb. 2022 - Mar. 2024
+  - title: Vail Resorts, Keystone Resort
+    role: Manager on Duty, Engineering and Maintenance
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Managed emergency maintenance calls overnight, ensuring uninterrupted resort operations after hours.
+      - Learned and applied new technical skills in real-time, adapting to evolving operational challenges.
+      - Trained team members new technical skills, improving efficiency and reducing response times by 20%.
+    date: Nov. 2017 - May. 2021
+  # - title: Pacebook
+  #   role: Software Engineer Intern
+  #   description: 
+  #     - Designed the dynamic website using React for data visualization
+  #     - Integrated '*Yolo*' to boost the accuracy of the object detection
+  #   date: Jul. 2013 - Sep. 2013
