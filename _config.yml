@@ -2,17 +2,17 @@ title: My Portfolio Site
 profile_img: /assets/img/logo.png
 icon_img: /assets/img/logo.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Joe Chirchirillo"
+job: "Software Engineer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 704-998-8006
+address: Crested Butte, CO
+email: cchirchirillo3@gmail.com
+linkedin_username: https://www.linkedin.com/in/joechirchirillo/
+github_username: https://github.com/jchirch
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
 
 theme: jekyll-professional-resume
 
