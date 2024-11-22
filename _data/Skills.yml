@@ -17,5 +17,8 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
       ![railsicon](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rails/rails-original-wordmark.svg)
       ![tryagain](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg)
-      
+    "
+  - title: Testing
+    description: "
+      ![rspec]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-plain-wordmark.svg")
     "
