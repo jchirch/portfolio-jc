@@ -1,13 +1,11 @@
 subject: Skills
-listing-order: 4
+listing-order: 3
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages
+  - title: Programming Languages & Frameworks
     description: |
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="Ruby" width="60" height="60" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
-  - title: Frameworks
-    description: |
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="60" height="60" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rails/rails-original-wordmark.svg" alt="Rails" width="60" height="60" />
   - title: Testing
