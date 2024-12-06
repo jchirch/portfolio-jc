@@ -1,9 +1,9 @@
 subject: Volunteering
-listing-order: 5
+listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: onX Maps Inc.
-    description: Mountain Project Regional Admin
+  - title: onX Maps Inc., Mountain Project Regional Admin
+    description: Help maintain a comprehensive database of crowdsourced information focused on outdoor recreation and education, ensuring it’s organized with relevant information.
     date: Jan. 2020 - Ongoing
   # - title: Gogle CodeJam
   #   description: 3rd place in Gogle CodeJam
