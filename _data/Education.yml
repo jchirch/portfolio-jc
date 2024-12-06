@@ -1,5 +1,5 @@
 subject: Education
-listing-order: 1
+listing-order: 4
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Turing School of Software & Design
@@ -13,5 +13,3 @@ contents:
       - Highest score in graduating class for Senior thesis presented at National Science Seminar.
     grade: "**GPA**: `3.4/4.0`"
     date: Aug. 2010 - May 2014
-  - title: Asheville-Buncome Technical Community College, Emergency Medical Technitian
-    date: Jan. 2016 - May. 2016
