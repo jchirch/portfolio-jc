@@ -1,5 +1,5 @@
 subject: Projects
-listing-order: 3
+listing-order: 2
 icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Poke-Gochi ([Deployed Link](https://poke-gochi.vercel.app/))"
