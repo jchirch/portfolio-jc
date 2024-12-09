@@ -6,7 +6,7 @@ contents:
     description: 
       - Interactive Tamagotchi app allows users to care for virtual pets, using Rails API to consume PokéAPI data.
       - Developed API functionality with ActiveJobs & Sidekiq to manage time-sensitive data decay.
-      - "Technology Used: React, Rails, Ruby, Javascript"
+      - "Technology Used: React, Javascript, Ruby, Rails"
     image: "![](https://i.ibb.co/t4v5yvM/pokescreenshot.png)"
   - title: "Rancid Tomatillos ([Deployed Link](https://rancid-tomatillos-omega-lake.vercel.app/))"
     description: 
