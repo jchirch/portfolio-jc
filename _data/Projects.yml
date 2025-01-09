@@ -2,7 +2,7 @@ subject: Projects
 listing-order: 2
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Poke-Gochi ([Githib API](https://github.com/jchirch/poke-gochi-API)) & ([Githib](https://github.com/jchirch/poke-gochi))"
+  - title: "Poke-Gochi ([Github API](https://github.com/jchirch/poke-gochi-API)) & ([Github](https://github.com/jchirch/poke-gochi))"
     description: 
       - Interactive Tamagotchi app allows users to care for virtual pets, using Rails API to consume PokéAPI data.
       - Developed API functionality with ActiveJobs & Sidekiq to manage time-sensitive data decay.
