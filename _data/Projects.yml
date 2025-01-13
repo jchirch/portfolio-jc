@@ -6,7 +6,7 @@ contents:
     description:
       - sentance x.
       - sentance y.
-    image: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDE1ZHVrY3h5eWYyYzAwazdtejUyNmo1eTY0Y2t4emZhZG5nbjBjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awmXS9bwgg3fygCBq3/giphy.gif"
+    image: "![](https://i.ibb.co/1sChx1y/Screenshot-2025-01-12-at-5-36-57-PM.png)"
   - title: "Poke-Gochi ([Github API](https://github.com/jchirch/poke-gochi-API)) & ([Github](https://github.com/jchirch/poke-gochi))"
     description: 
       - Interactive Tamagotchi app allows users to care for virtual pets, using Rails API to consume PokéAPI data.
