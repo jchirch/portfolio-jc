@@ -4,14 +4,16 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Tracker"
     description:
-      - sentance x.
-      - sentance y.
+      - Full-stack job application tracking tool designed to help job seekers to organize and manage their job search efficiently.
+      - Acted as lead architect for relational database structure, enabling scalable and efficient data interactions for the entire team.
+      - "Technology Used: Ruby, Rails, React, Javascript, Typescript, Tailwind"
     image: "![](https://i.ibb.co/1sChx1y/Screenshot-2025-01-12-at-5-36-57-PM.png)"
   - title: "Poke-Gochi ([Github API](https://github.com/jchirch/poke-gochi-API)) & ([Github](https://github.com/jchirch/poke-gochi))"
     description: 
       - Interactive Tamagotchi app allows users to care for virtual pets, using Rails API to consume PokéAPI data.
       - Developed API functionality with ActiveJobs & Sidekiq to manage time-sensitive data decay.
-      - "Technology Used: React, Javascript, Ruby, Rails"
+      - Led a 5 person team in building greenfield project, handling design, delegation, & presentation.
+      - "Technology Used: Ruby, Rails, React, Javascript"
     image: "![](https://i.ibb.co/t4v5yvM/pokescreenshot.png)"
   - title: "Rancid Tomatillos ([Github](https://github.com/jchirch/rancid-tomatillos))"
     description: 
