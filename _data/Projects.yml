@@ -4,9 +4,9 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Tracker"
     description:
-      - x
-      - y
-      image: "![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDE1ZHVrY3h5eWYyYzAwazdtejUyNmo1eTY0Y2t4emZhZG5nbjBjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awmXS9bwgg3fygCBq3/giphy.gif)"
+      - sentance x.
+      - sentance y.
+    image: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDE1ZHVrY3h5eWYyYzAwazdtejUyNmo1eTY0Y2t4emZhZG5nbjBjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awmXS9bwgg3fygCBq3/giphy.gif"
   - title: "Poke-Gochi ([Github API](https://github.com/jchirch/poke-gochi-API)) & ([Github](https://github.com/jchirch/poke-gochi))"
     description: 
       - Interactive Tamagotchi app allows users to care for virtual pets, using Rails API to consume PokéAPI data.
@@ -16,6 +16,6 @@ contents:
   - title: "Rancid Tomatillos ([Github](https://github.com/jchirch/rancid-tomatillos))"
     description: 
       - Enhanced “legacy” API for users to find movies, vote on ratings, and access details about films.
-      - Coupled app with thorough model and integration testing with Cypress
+      - Coupled app with thorough model and integration testing with Cypress.
       - "Technology Used: React, Javascript, CSS, Cypress"
     image: "![](https://i.ibb.co/zhJPwSd/rancidscreenshot.png)"
