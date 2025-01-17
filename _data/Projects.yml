@@ -4,8 +4,10 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Tracker ([Deployed Link](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/)), ([Github API](https://github.com/turingschool/tracker-crm)), & ([Github](https://github.com/turingschool/tracker-crm-fe))"
     description:
-      - Full-stack job application tracking tool designed to help job seekers to organize and manage their job search efficiently.
-      - Acted as lead architect for relational database structure, enabling scalable and efficient data interactions for the entire team.
+      - Job application tracking tool designed to help job seekers organize and manage their job search efficiently.
+      - Designed and built the job application creation functionality, including both front-end and back-end components, with a focus on usability and seamless integration.
+      - Architected the relational database structure, enabling scalable and efficient data interactions for team-wide implementation.
+      - Led introduction of foreign technologies (TypeScript and Tailwind CSS) to the team, providing guidance, integration, and documentation.
       - "Technology Used: Ruby, Rails, React, Javascript, Typescript, Tailwind"
     image: "![](https://i.ibb.co/1sChx1y/Screenshot-2025-01-12-at-5-36-57-PM.png)"
   - title: "Poke-Gochi ([Github API](https://github.com/jchirch/poke-gochi-API)) & ([Github](https://github.com/jchirch/poke-gochi))"
