@@ -2,7 +2,7 @@ subject: Projects
 listing-order: 2
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Tracker ([Deployed Link](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/)), ([Github API](https://github.com/turingschool/tracker-crm)), & ([Github](https://github.com/turingschool/tracker-crm-fe))"
+  - title: "Tracker [Deployed Link](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/), [Github API](https://github.com/turingschool/tracker-crm), & [Github](https://github.com/turingschool/tracker-crm-fe)"
     description:
       - Job application tracking tool designed to help job seekers organize and manage their job search efficiently.
       - Designed and built the job application creation functionality, including both front-end and back-end components, with a focus on usability and seamless integration.
@@ -10,14 +10,14 @@ contents:
       - Led introduction of foreign technologies (TypeScript and Tailwind CSS) to the team, providing guidance, integration, and documentation.
       - "Technology Used: Ruby, Rails, React, Javascript, Typescript, Tailwind"
     image: "![](https://i.ibb.co/1sChx1y/Screenshot-2025-01-12-at-5-36-57-PM.png)"
-  - title: "Poke-Gochi ([Github API](https://github.com/jchirch/poke-gochi-API)) & ([Github](https://github.com/jchirch/poke-gochi))"
+  - title: "Poke-Gochi [Github API](https://github.com/jchirch/poke-gochi-API) & [Github](https://github.com/jchirch/poke-gochi)"
     description: 
       - Interactive Tamagotchi app allows users to care for virtual pets, using Rails API to consume PokéAPI data.
       - Developed API functionality with ActiveJobs & Sidekiq to manage time-sensitive data decay.
       - Led a 5 person team in building greenfield project, handling design, delegation, & presentation.
       - "Technology Used: Ruby, Rails, React, Javascript"
     image: "![](https://i.ibb.co/t4v5yvM/pokescreenshot.png)"
-  - title: "Rancid Tomatillos ([Github](https://github.com/jchirch/rancid-tomatillos))"
+  - title: "Rancid Tomatillos [Github](https://github.com/jchirch/rancid-tomatillos)"
     description: 
       - Enhanced “legacy” API for users to find movies, vote on ratings, and access details about films.
       - Coupled app with thorough model and integration testing with Cypress.
