@@ -14,6 +14,7 @@ contents:
     description: |
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" alt="Cypress" width="60" height="60"/>   
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-plain-wordmark.svg" alt="RSpec" width="60" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" /> alt="playwright" width="60" height="60" />
   - title: Development Tools
     description: |
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" alt="React Router" width="60" height="60"/>
