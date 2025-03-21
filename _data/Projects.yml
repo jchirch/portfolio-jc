@@ -2,7 +2,7 @@ subject: Projects
 listing-order: 2
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Tracker [Deployed Link](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/), [Github API](https://github.com/turingschool/tracker-crm), & [Github](https://github.com/turingschool/tracker-crm-fe)"
+  - title: "Tracker [Deployed Link](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/), [Github FE](https://github.com/turingschool/tracker-crm-fe), [Github API](https://github.com/turingschool/tracker-crm)"
     description:
       - Job application tracking tool designed to help job seekers organize and manage their job search efficiently.
       - Designed and built the job application creation functionality, including both front-end and back-end components, with a focus on usability and seamless integration.
